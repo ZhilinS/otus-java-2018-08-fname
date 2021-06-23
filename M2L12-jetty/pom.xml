@@ -11,7 +11,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <jetty.version>9.4.19.v20190610</jetty.version>
+        <jetty.version>9.4.41.v20210516</jetty.version>
         <freemarker.version>2.3.28</freemarker.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
